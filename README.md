@@ -2,6 +2,9 @@
 
 An AI-powered marketing funnel prototype built with Next.js, Tailwind CSS, and a rich component set. It showcases multiple funnel stages (landing, warming, conversion, actions), analytics, and UX patterns.
 
+### Live Demo
+- Production: [lead2learn-5ltk63dpr-ashirvaddubeys-projects.vercel.app](https://lead2learn-5ltk63dpr-ashirvaddubeys-projects.vercel.app)
+
 ### Tech stack
 - **Framework**: Next.js 15, React 19
 - **Styling**: Tailwind CSS v4, `tailwindcss-animate`, `geist`
