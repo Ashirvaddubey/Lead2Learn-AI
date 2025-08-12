@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "name": "lead2learn-ai",
+  "installCommand": "pnpm install --no-frozen-lockfile",
+  "buildCommand": "pnpm run build"
+}
+
